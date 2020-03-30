@@ -15,3 +15,9 @@ for line in file:
     devices_list.append(device_info_list)
 
 file.close() # Close the file since we are done with it
+
+
+print '{0:8} {1:8} {2:20} {3:20}'.format(device[0],device[1],
+                                         device[2],device[3])
+
+                                         

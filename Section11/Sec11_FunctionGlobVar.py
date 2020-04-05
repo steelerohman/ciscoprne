@@ -1,5 +1,9 @@
 #
 # PRNE Section 11 - Function with global variables
+# Create functions to read device information from a file, and #
+# print device info in a formatted table
+#
+# Requires 'devices' file
 
 #---- Function to read device information from file -------------------
 def read_device_info():

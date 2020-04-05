@@ -1,6 +1,7 @@
 # Create a function that will read input from a file. Your function will
 # take the name of the file as a parameter, to be passed by the caller.
 # The function will put the device information into the global devices_list.
+# Required 'devices' file 
 
 #---- Function to read device information from file -------------------
 def read_device_info(devices_file):

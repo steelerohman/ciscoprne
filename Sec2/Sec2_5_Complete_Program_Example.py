@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Section 2.3
 #Reads a list of IP addresses representing devices, connecting to each via Telnet,
 #extracting the version string, and printing it out.
 
